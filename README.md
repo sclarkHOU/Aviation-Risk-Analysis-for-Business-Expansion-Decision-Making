@@ -1,6 +1,6 @@
 # Flatiron Project 1: Peanut Butter Inc Aviation Risk Data Analysis
 
-![plane](aviation-industry-risk-analysis-project/images/plane_image.png)
+![plane](images/plane_image.png)
 
 
 ### Project Resources
@@ -32,9 +32,11 @@ We chose to Event.Date range to start on 11/19/2001 which was when TSA was estab
 
 
 ### Private Plane Risk Assessment
+
+
 In this portion of the project we will define private flights as those which carry less than 20 passengers. This number comes from our independent research of the difference between commercial and private flights.(https://www.internationaljet.com/how-many-passengers-can-a-private-jethold.html#:~:text=Similar%20to%20commercial%20planes%2C%20large,flights%20seat%20closer%20to%206)
 
-
+![plane](images/private_data.png)
 
 
 
@@ -42,7 +44,7 @@ In this portion of the project we will define private flights as those which car
 
 $
 
-
+![plane](images/commercial_data.png)
 
 
 #### Fatal Accident Context:
@@ -67,7 +69,7 @@ documentation: https://aviation-safety.net/database/record.php?id=20180417-0
 ### Operation Location Risk Assessment
 
 
-
+![plane](images/location_data.png)
 
 
 
@@ -80,6 +82,8 @@ $
 
 
 ### Conclusions
+
+![plane](images/private_data.png)
 In general, commercial flights are safer than private planes regardless of the commercial manufacturer.
 
 The only commercial plane we DON’T recommend is the boeing 737 7h4 due to metal fatigue in the engine.
