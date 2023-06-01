@@ -7,6 +7,7 @@
 - Project Instructions (Canvas): [[link](https://learning.flatironschool.com/courses/6412/pages/phase-1-project-description?module_item_id=561813#grading)]
 - Project Instructions (GitHub): [[link](https://github.com/learn-co-curriculum/dsc-phase-1-project-v3)]
 - Aviation Dataset (Kaggle): [[link](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)]
+- Tableau Dashboard (Tableau): [[link](https://public.tableau.com/app/profile/james.mclaughlin2891/viz/PeanutButterIncRiskAnalysis/Dashboard2?publish=yes)]
 
 ### Business Problem
 Business Problem
