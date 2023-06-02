@@ -43,53 +43,49 @@ In this portion of the project we will define private flights as those which car
 
 ### Commercial Plane Risk Assessment
 
-$
+#### Fatal Accident Context:
+1.) **boeing 777-200er** (2013-07-06):
+- Pilot error; upon landing.
+- documentation: https://aviation-safety.net/database/record.php?id=20130706-0
+
+2.) **airbus a300 - f4 622r** (2013-08-14):
+- Pilot error; failure to properly configure and verify the flight management computer for the profile approach
+- documentation: https://aviation-safety.net/database/record.php?id=20130814-0
+
+3.) **boeing 737 7h4** (2018-04-17):
+- metal fatigue in the area where the blade broke in the engine.
+- documentation: https://aviation-safety.net/database/record.php?id=20180417-0
+
+4.) **boeing 767** (2019-02-23):
+- Pilot error; inappropriate response by the first officer as the pilot flying to an inadvertent activation of the go-around mode, which led to his spatial disorientation.
+- documentation: https://aviation-safety.net/database/record.php?id=20190223-0
+
+
 
 ![plane](images/commercial_data.png)
 
 
-#### Fatal Accident Context:
-1.) boeing 777-200er (2013-07-06):
-
-.Pilot error; upon landing.
-.documentation: https://aviation-safety.net/database/record.php?id=20130706-0
-2.) airbus a300 - f4 622r (2013-08-14):
-
-.Pilot error; failure to properly configure and verify the flight management computer for the profile approach
-.documentation: https://aviation-safety.net/database/record.php?id=20130814-0
-3.) boeing 737 7h4 (2018-04-17):
-
-metal fatigue in the area where the blade broke in the engine.
-documentation: https://aviation-safety.net/database/record.php?id=20180417-0
-4.) boeing 767 (2019-02-23):
-
-.Pilot error; inappropriate response by the first officer as the pilot flying to an inadvertent activation of the go-around mode, which led to his spatial disorientation.
-.documentation: https://aviation-safety.net/database/record.php?id=20190223-0
 
 
 ### Operation Location Risk Assessment
 
+- From our analysis we see the majority of fatalities occur in Private planes across all regions. The lowest risk locations for private planes would be the Northeast, followed by the Midwest region.
+- There is low risk associated with Commercial aircraft compared to private aircraft when viewing fatalities by region
 
 ![plane](images/location_data.png)
 
 
 
-
-
-$
-
-
-
-
-
 ### Conclusions
 
+- In general, commercial flights are safer than private planes regardless of the commercial manufacturer.
+
+- The only commercial plane we DON’T recommend is the boeing 737 7h4 due to metal fatigue in the engine.
+
+- If company chooses to go private, recommend Cessna 150m or Piper pa-28-161 as safest models.
+
+- Supplementary research showed importance of pilot training: over 80% of crashes occur due to pilot error.
+
+
 ![plane](images/private_data.png)
-In general, commercial flights are safer than private planes regardless of the commercial manufacturer.
-
-The only commercial plane we DON’T recommend is the boeing 737 7h4 due to metal fatigue in the engine.
-
-If company chooses to go private, recommend Cessna 150m or Piper pa-28-161 as safest models.
-
-Supplementary research showed importance of pilot training: over 80% of crashes occur due to pilot error.
 
